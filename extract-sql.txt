@@ -1,2 +1,2 @@
-SELECT *
+SELECT count(*)
 FROM mydb

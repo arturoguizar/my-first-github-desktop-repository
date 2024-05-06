@@ -1,3 +1,4 @@
 SELECT id,name
 FROM mydb
+WHERE name = 'Arturo'
 LIMIT 5
